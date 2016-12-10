@@ -3,12 +3,12 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Kiko Plus"
+name:               "Kiko-plus Theme Test"
 
 
 
 author:
-  name:             your-name
+  name:             Zunygun
   facebook:         your-id
   twitter:          your-id
   github:           your-id
@@ -26,9 +26,9 @@ disqus:
   id:               "your-id"
 
 # URL
-#url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
-url:                "http://localhost:4000" # use this url when develop
-baseurl:            "" # the subpath of your site, e.g. /blog
+url:                "https://zunygun.github.io" # the base hostname & protocol for your site
+#url:                "http://localhost:4000" # use this url when develop
+baseurl:            "/zuny" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -53,7 +53,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+    url:            "https://zunygun.github.io/zuny"
 
 
 
